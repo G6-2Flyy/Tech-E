@@ -2,7 +2,7 @@
 
 ## Description
 
-Tech-E is an full-stack e-commerce web application.
+Tech-E is a full-stack e-commerce web application.
 
 - The motivation for this project was derived from the desire to build an on-line store that provides consumers an alternate place to purchase tech products.
 - This project was another opportunity to utilize various technologies recently learned.
